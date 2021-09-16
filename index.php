@@ -203,7 +203,7 @@
                 <div class="card-header card-header-tabs card-header-primary">
                   <div class="nav-tabs-navigation">
                     <div class="nav-tabs-wrapper">
-                     Tasks:
+                    <h4 class="card-title"> อุปกรณ์/เครื่องมือ</h4>
                     </div>
                   </div>
                 </div>
@@ -257,7 +257,7 @@
             <div class="col-lg-6  col-md-12">
               <div class="card">
                 <div class="card-header card-header-warning">
-                  <h4 class="card-title">Employees Stats</h4>
+                  <h4 class="card-title">จุดตั้งบริษัท</h4>
                 
                 </div>
                 
